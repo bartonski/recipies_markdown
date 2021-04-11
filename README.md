@@ -1,4 +1,4 @@
-# Barton's recipiA file
+# Barton's recipie file
 
 Particularly good:
 
