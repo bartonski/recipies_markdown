@@ -1,0 +1,25 @@
+## TITLE
+
+### Ingredients
+
+<!--
+* | measurement | ingredient (modification)
+-->
+* | foo | foo
+* | foo | foo
+* | foo | foo
+* | foo | foo
+
+---
+
+### Directions
+
+1. foo
+1. foo
+1. foo
+1. foo
+
+---
+
+foo
+
