@@ -6,10 +6,10 @@
 * | 1 lb.     | ground beef
 * | 4 - 6     | flour tortillas
 * | 1 large   | tomato
-* |           | lettuce
-* |           | sour cream
-* |           | salsa
-* |           | cheddar (grated)
+* | .         | lettuce
+* | .         | sour cream
+* | .         | salsa
+* | .         | cheddar (grated)
 
 ---
 
