@@ -4,7 +4,7 @@
 
 * | 2      | chicken breasts
 * | 1/4 c  | barbecue sauce
-* |        | charcoal
+* | .      | charcoal
 
 ---
 
