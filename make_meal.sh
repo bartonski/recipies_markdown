@@ -11,7 +11,7 @@ md ()
 }
 
 title="$*"
-name="$(echo $title | sed 's/ /_/g;y/ABCDEFGHIJKLMNOPQRSTUVWXYZ/abcdefghijklmnopqrstuvwxyz/')"
+name="$(echo $title | sed 's/ /_/g;s/\(.*\)/\L\1/')"
 if [ -z "$name" ]
 then
     echo "usage: $0 NAME"
