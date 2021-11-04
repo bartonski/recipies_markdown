@@ -10,7 +10,7 @@
 * | 1/2 teaspoon  | dried parsley
 * | 1/4 teaspoon  | dried oregano
 * | 1/4 teaspoon  | black pepper
-* | 3 tablespoons | grated Parmesan cheese (divided)
+* | 3 tablespoons | grated parmesan cheese (divided)
 * | 4 slices      | bread (lightly toasted)
 
 ---
