@@ -2,16 +2,16 @@
 
 ### Ingredients
 
-* | 4 spray(s) | Cooking spray
-* | 1 pound(s) | Uncooked boneless skinless chicken breast(s) (four 4 oz halves)
-* | 1⁄2 tsp    | Table salt
-* | 1⁄4 tsp    | Black pepper (freshly ground)
-* | 1 tsp      | Olive oil
-* | 2 tsp      | Fresh lemon juice (or more to taste)
-* | 2 tsp      | Rosemary (fresh, chopped)
-* | 2 tsp      | Fresh parsley (chopped)
-* | 1⁄4 cup(s) | Reduced-sodium chicken broth
-* | 1⁄2 medium | Lemon(s) (quartered (for garnish))
+* | 4 spray(s) | cooking spray
+* | 1 pound(s) | uncooked boneless skinless chicken breast(s) (four 4 oz halves)
+* | 1⁄2 tsp    | salt
+* | 1⁄4 tsp    | black pepper (freshly ground)
+* | 1 tsp      | olive oil
+* | 2 tsp      | lemon juice (or more to taste, fresh)
+* | 2 tsp      | rosemary (fresh, chopped)
+* | 2 tsp      | fresh parsley (chopped)
+* | 1⁄4 cup(s) | reduced-sodium chicken broth
+* | 1⁄2 medium | lemon(s) (quartered (for garnish))
 
 ---
 

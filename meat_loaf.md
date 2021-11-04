@@ -29,9 +29,9 @@ Topping:
 
 ### Ingredients
 
-* 2 Tbsb. ketchup (topping)
-* 2 Tbsb. brown sugar (topping)
-* 2 tsp. parsley flakes (topping)
+* | 2 Tbsb. | ketchup (topping)
+* | 2 Tbsb. | brown sugar (topping)
+* | 2 tsp.  | parsley flakes (topping)
 
 ---
 

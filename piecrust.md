@@ -2,7 +2,7 @@
 
 ### Ingredients
 
-* | 6 c | flour
+* | 6 c  | flour
 * | 1 lb | shortning
 * | 1 t. | salt
 
@@ -12,13 +12,13 @@
 
 ### Ingredients
 
-* | 2.5 cups mix
-* | 1/3 cup water
-* | 8 medium - large apples
-* | 1 c sugar
-* | lemon juice if mild apples
-* | 1 dash salt
-* | 1 T flour
+* | 2.5    | cups mix
+* | 1/3    | cup water
+* | 8      | apples (medium - large)
+* | 1 c    | sugar
+* | 1 t.   | lemon juice if mild apples
+* | 1 dash | salt
+* | 1 T    | flour
 
 ---
 

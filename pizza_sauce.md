@@ -10,12 +10,12 @@
 
 #### Herbs (Optional)
 
-* | oregano
-* | marjoram
-* | cumin (for mexican flavor)
-* | thyme
-* | basil
-* | sage
+* |  | oregano
+* |  | marjoram
+* |  | cumin (for mexican flavor)
+* |  | thyme
+* |  | basil
+* |  | sage
 
 ---
 

@@ -2,9 +2,9 @@
 
 ### Ingredients
 
-* | 1              | Avocado (ripe hass)
-* | 1⁄2 cup        | Cilantro (leaves)
-* | 1⁄2 cup        | Water
+* | 1              | avocado (ripe hass)
+* | 1⁄2 cup        | cilantro (leaves)
+* | 1⁄2 cup        | water
 * | 1⁄4 cup        | yogurt (Plain fat free Greek)
 * | 4 Tbsp         | lime juice (fresh)
 * | 1 medium clove | garlic
@@ -14,13 +14,13 @@
 * | 1⁄8 tsp        | black pepper
 * | 1⁄2 small      | onion (red, uncooked, diced)
 * | 2 sprays       | cooking spray
-* | 2 1⁄2 pounds   | Uncooked boneless skinless chicken breast
-* | 2 tsp          | Extra virgin olive oil
+* | 2 1⁄2 pounds   | chicken breast (Uncooked, boneless, skinless)
+* | 2 tsp          | extra virgin olive oil
 * | 2 Tbsp         | jerk seasoning
-* | 12 cups        | Romaine lettuce (romaine, roughly chopped)
-* | 15 oz cans     | Hearts of palm (drained, sliced)
-* | 2 medium       | Corn (on the cob, kernels removed with knife)
-* | 1 1⁄2 cups     | Pineapple (diced)
+* | 12 cups        | lettuce (romaine, roughly chopped)
+* | 15 oz cans     | hearts of palm (drained, sliced)
+* | 2 medium       | corn (on the cob, kernels removed with knife)
+* | 1 1⁄2 cups     | pineapple (diced)
 * | 2 cup,         | tomatoes (grape or cherry, halved)
 * | 1 large        | bell pepper (red, halved, seeded, chopped)
 * | 1⁄2 medium     | cucumber (english, diced)

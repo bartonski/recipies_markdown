@@ -12,10 +12,10 @@
 
 #### Topping:
 
-* | 1/2 cup brown sugar
-* | 1/3 cup flour
-* | 1/3 cup melted butter
-* | 1 cup chopped pecans
+* | 1/2 cup | brown sugar
+* | 1/3 cup | flour
+* | 1/3 cup | melted butter
+* | 1 cup   | chopped pecans
 
 ---
 
