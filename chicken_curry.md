@@ -6,7 +6,7 @@
 * | 6 cloves | garlic
 * | 3 T.     | peanut oil
 * | 6 oz.    | tomato paste
-* | 1 t.     | turneric
+* | 1 t.     | turmeric
 * | 1 t.     | cumin
 * | 2 t.     | coriander
 * | 1 t.     | ginger

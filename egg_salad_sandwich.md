@@ -3,7 +3,7 @@
 ### Ingredients
 
 * | 3 large  | eggs
-* | 1 Tbsp.  | mayonaise
+* | 1 Tbsp.  | mayonnaise
 * | 2 tsp.   | sweet pickle relish
 * | 4 slices | bread (whole wheat)
 
@@ -18,7 +18,7 @@
 1. Let eggs cool for 2-3 minutes
 1. Shell eggs
 1. Mash eggs with potato masher
-1. Add mayonaise and relish
+1. Add mayonnaise and relish
 1. Toast bread (Optional)
 1. Assemble sandwich
 

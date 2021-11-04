@@ -2,7 +2,7 @@
 
 ### Ingredients
 
-* | 1           | orange (Zest, grated)
+* | 1           | orange (zest, grated)
 * | 1/2 c.      | orange juice
 * | 1/4 c.      | lime juice
 * | 2 T.        | honey
@@ -10,8 +10,8 @@
 * | 1/4 t.      | pepper
 * | 3 6-oz      | chicken thighs ( boneless, skinless )
 * | 3 6-oz      | chicken breasts ( bone-in, skinless )
-* | 3 c.        | cousocous ( whole-wheat, cooked )
-* | 1 11-oz can | mandarine orange segments ( drained )
+* | 3 c.        | couscous ( whole-wheat, cooked )
+* | 1 11-oz can | mandarin orange segments ( drained )
 * | 1/4 c.      | dried currants
 * |             | apple or cherry wood chips
 

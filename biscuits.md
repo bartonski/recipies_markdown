@@ -5,14 +5,14 @@
 * | 2 c | flour
 * | 1/2 t. | salt
 * | 1 T. | baking powder
-* | 3-4 T | butter (or shortning)
+* | 3-4 T | butter (or shortening)
 * | 2/3 - 3/4 c | milk
 
 ---
 
 ### Directions
 
-1. mix dry ingredients. cut in shortning
+1. mix dry ingredients. cut in shortening
 1. add milk until desired texture
 1. roll out
 1. bake 450f 12-15 minutes

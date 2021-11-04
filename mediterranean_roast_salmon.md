@@ -12,7 +12,7 @@
 * | 1         | naval orange (large)
 * | 3/4 t.    | fennel seeds (crushed)
 * | 1/4 c.    | basil (slivered, fresh)
-* | 12        | kalmata olives (pitted, coarsley chopped)
+* | 12        | kalamata olives (pitted, coarsley chopped)
 
 ---
 
