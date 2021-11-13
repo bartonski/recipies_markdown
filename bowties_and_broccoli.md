@@ -2,10 +2,10 @@
 
 ### Ingredients
 
-* | 12 oz              | farfale pasta
+* | 12 oz              | farfalle pasta
 * | 1 lb               | broccoli florets (frozen)
 * | 3 Tbsp             | butter
-* | 3 Tbsp             | grated Parmesan
+* | 3 Tbsp             | grated parmesan
 * | 1/2 tsp (to taste) | salt
 * | 1/4 tsp (to taste) | pepper
 * | 1 Pinch            | red pepper, crushed (optional)

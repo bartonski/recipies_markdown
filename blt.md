@@ -6,7 +6,7 @@
 * | 2 leaves | lettuce
 * | 1        | tomato (medium)
 * | 4 slices | bread (whole wheat)
-* | 1 T      | mayonaise (optional)
+* | 1 T      | mayonnaise (optional)
 
 ---
 
@@ -17,7 +17,7 @@
 1. slice tomato
 1. wash and dry lettuce
 1. toast bread (optional)
-1. spread mayonaise on bread (optional)
+1. spread mayonnaise on bread (optional)
 1. assemble sandwiches
 
 ---

@@ -6,7 +6,7 @@
 * | 1/4 C.   | warm water
 * | 1 1/2 t. | sugar
 * | 2 1/2 t. | salt
-* | 1/2 C.   | shortning
+* | 1/2 C.   | shortening
 * | 1 3/4 C. | boiling water
 * | 6 C.     | flour
 
@@ -15,7 +15,7 @@
 ### Directions
 
 1. Start yeast in water.
-1. Combine sugar, salt, shortning, add boiling water.
+1. Combine sugar, salt, shortening, add boiling water.
 1. Beat in 2 C. flour.
 1. When temp is no longer scalding to touch, add yeast.
 1. Add remaining flour as needed to make dough.
