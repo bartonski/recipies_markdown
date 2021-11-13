@@ -7,7 +7,7 @@
 * | 3 cans                    | chicken stock (6 or 7 boulion cubes, cups of water)
 * | 1 - 2 cans                | green chilis
 * | 1                         | onion (large)
-* | to taste                  | cillantro
+* | to taste                  | cilantro
 * | 2 T. then to taste        | cumin
 * | 5 or 6 cloves             | garlic
 * | to taste                  | pepper
