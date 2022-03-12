@@ -10,7 +10,7 @@
 * | 2        | belgian endive (large head) sliced crosswise 1/2-inch thick -- about 3 cups)
 * | 4 oz     | cheddar (low-fat, cut into 1/4-inch wide 1 1/2-inch long strips)
 * | 1        | apple (large mcintosh -- cut into thin wedges)
-* | 6 Tbsp   | balsalmic vinaigrette (low-fat)
+* | 6 Tbsp   | balsamic vinaigrette (low-fat)
 
 ---
 

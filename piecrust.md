@@ -3,7 +3,7 @@
 ### Ingredients
 
 * | 6 c  | flour
-* | 1 lb | shortning
+* | 1 lb | shortening
 * | 1 t. | salt
 
 ---

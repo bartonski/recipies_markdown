@@ -6,7 +6,7 @@
 * | 6 Oz.  | pancetta (or bacon finely diced)
 * | 1 lb.  | spaghetti
 * | 4      | eggs (lightly beaten)
-* | 1/3 C. | grated peorino (or parmesan) 
+* | 1/3 C. | grated pecorino (or parmesan) 
 
 ---
 
