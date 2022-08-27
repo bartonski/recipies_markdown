@@ -7,8 +7,8 @@
 * | 2 tablespoons | balsamic vinegar
 * | 4             | tomatoes (sliced)
 * | 3 tablespoons | mayonnaise
-* | 1/2 teaspoon  | dried parsley
-* | 1/4 teaspoon  | dried oregano
+* | 1/2 teaspoon  | parsley (dried)
+* | 1/4 teaspoon  | oregano (dried)
 * | 1/4 teaspoon  | black pepper
 * | 3 tablespoons | grated parmesan cheese (divided)
 * | 4 slices      | bread (lightly toasted)

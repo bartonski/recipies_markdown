@@ -12,7 +12,7 @@
 * | 3 6-oz      | chicken breasts ( bone-in, skinless )
 * | 3 c.        | couscous ( whole-wheat, cooked )
 * | 1 11-oz can | mandarin orange segments ( drained )
-* | 1/4 c.      | dried currants
+* | 1/4 c.      | currants (dried)
 * |             | apple or cherry wood chips
 
 ---

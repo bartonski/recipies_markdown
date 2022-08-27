@@ -3,7 +3,7 @@
 ### Ingredients
 
 * | 1 1/2 cups            | bread crumbs (soft, about 3 slices bread)
-* | 1 tablespoon          | dried minced onion (or 1/4 cup finely chopped onion)
+* | 1 tablespoon          | onion flakes (or 1/4 cup finely chopped onion)
 * | 1 1/2 teaspoons       | salt
 * | 1/4 teaspoon          | pepper
 * | 1/4 teaspoon          | nutmeg

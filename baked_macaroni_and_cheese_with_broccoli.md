@@ -3,8 +3,8 @@
 ### Ingredients
 
 * | 2 sprays   | cooking spray
-* | 12 oz      | uncooked pasta (gemelli or other twisted pasta (about 2 1/2 cups))
-* | 1⁄8 tsp    | table salt (for pasta cooking water)
+* | 12 oz      | pasta (uncooked, gemelli or other twisted pasta (about 2 1/2 cups))
+* | 1⁄8 tsp    | salt (for pasta cooking water)
 * | 10 oz      | broccoli (uncooked, small florets (about 2 1/2 cups))
 * | 1 tsp      | salted butter
 * | 1⁄3 cup    | bread crumbs (fresh)

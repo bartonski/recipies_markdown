@@ -11,7 +11,7 @@ One pan dinner
 * | 3            | carrots (medium, halved and sliced)
 * | 1 12 oz can  | tomato soup (condensed)
 * | 1 1/2 cups   | hot water
-* | 1/2 teaspoon | dried oregano
+* | 1/2 teaspoon | oregano (dried)
 * | 1/2 teaspoon | basil
 * | 1/4 lb.      | short pasta (rigatoni, large shells, macaroni etc)
 * | 2 cups       | quick-cooking vegetables (frozen peas, small broccoli florets, mushrooms etc)

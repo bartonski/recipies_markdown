@@ -10,7 +10,7 @@
 * | 2 cups           | sugar
 * | 1 (15 ounce) can | pumpkin puree
 * | 1/2 cup          | vegetable oil
-* | 1 cup            | dried cranberries
+* | 1 cup            | cranberries (dried)
 * | 1 cup            | walnuts (chopped)
 
 ---

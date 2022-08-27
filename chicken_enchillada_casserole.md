@@ -3,7 +3,7 @@
 ### Ingredients
 
 * | 1 (16 ounce container) | sour cream
-* | 1 (16 ounce jar)       | jar salsa
+* | 1 (16 ounce jar)       | salsa
 * | 1 (10.75 ounce can)    | cream of chicken soup (condensed)
 * | 1/4 cup                | onion (diced)
 * | 1 (8 ounce can)        | chili beans (drained)

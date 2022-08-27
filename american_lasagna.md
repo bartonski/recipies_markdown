@@ -5,8 +5,8 @@
 * | 1 1/2 pounds     | ground beef (lean)
 * | 1                | onion (chopped)
 * | 2 cloves         | garlic (minced)
-* | 1 tablespoon     | fresh basil (chopped)
-* | 1 teaspoon       | dried oregano
+* | 1 tablespoon     | basil (fresh, chopped)
+* | 1 teaspoon       | oregano (dried)
 * | 2 tablespoons    | brown sugar
 * | 1 1/2 teaspoons  | salt
 * | 1 (29 ounce) can | diced tomatoes (diced)
@@ -15,7 +15,7 @@
 * | 2                | eggs (beaten)
 * | 1 pint           | ricotta (part-skim)
 * | 1/2 cup          | parmesan (grated)
-* | 2 tablespoons    | dried parsley
+* | 2 tablespoons    | parsley (dried)
 * | 1 teaspoon       | salt
 * | 1 pound          | mozzarella cheese (shredded)
 * | 2 tablespoons    | parmesan (grated)

@@ -7,13 +7,13 @@
 * | 2 cloves  | garlic (medium cloves, peeled and crushed)
 * | 2 tsp     | chili powder
 * | 2 tsp     | ground cumin
-* | 1⁄2 tsp   | table salt
-* | 1 pound   | uncooked lean flank steak
-* | 1 large   | uncooked onion (thinly sliced)
+* | 1⁄2 tsp   | salt
+* | 1 pound   | lean flank steak (uncooked)
+* | 1 large   | onion (uncooked, thinly sliced)
 * | 1 medium  | sweet red pepper (seeded and thinly sliced)
 * | 2 sprays  | cooking spray
-* | 1⁄8 tsp   | table salt (or to taste, for seasoning vegetables)
-* | 1⁄8 tsp   | black pepper (or to taste, for seasoning vegetables)
+* | 1⁄8 tsp   | salt (or to taste, for seasoning vegetables)
+* | 1⁄8 tsp   | pepper (or to taste, for seasoning vegetables)
 * | 4 medium  | whole-wheat tortilla
 * | 4 Tbsp    | reduced-fat sour cream
 * | 1⁄4 cup   | guacamole (homemade or restaurant)

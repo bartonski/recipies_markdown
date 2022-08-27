@@ -12,7 +12,7 @@
 #### Seasoning Mix
 
 * | 1 C.   | flour
-* | 2 t.   | dried mustard
+* | 2 t.   | mustard (dried)
 * | 2 t.   | paprika
 * | 1 T.   | salt
 * | 1/8 t. | pepper

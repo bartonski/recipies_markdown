@@ -5,7 +5,7 @@
 * | 1 16 oz can | salmon
 * | 1           | egg
 * | 1/4 c.      | onion flakes
-* | 3T.         | flour.
+* | 3T.         | flour
 * |             | cornmeal
 
 ---

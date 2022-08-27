@@ -6,7 +6,7 @@
 * | 1 tsp.    | garlic powder
 * | 1 tsp.    | onion powder
 * | 1 tsp.    | ground coriander
-* | 1 tsp.    | dried thyme
+* | 1 tsp.    | thyme (dried)
 * | 1 1/4 lb. | pork tenderloin
 * | 1/4 c.    | olive oil
 * | 3 Tbsp.   | unsalted butter
@@ -38,5 +38,5 @@ Tenderloin can be refrigerated in an airtight container with cooking juices up t
 * | 1 tsp.    | garlic powder
 * | 1 tsp.    | onion powder
 * | 1 tsp.    | ground coriander
-* | 1 tsp.    | dried thyme
+* | 1 tsp.    | thyme (dried)
 

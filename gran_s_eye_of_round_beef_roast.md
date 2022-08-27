@@ -4,7 +4,7 @@
 
 * | 2 lbs      | eye of round
 * |            | adolph's meat tenderizer
-* | 3-4 cloves | of garlic
+* | 3-4 cloves | garlic
 * | 6-8        | red potatoes (cut lengthwise)
 * |            | mushrooms (optional)
 

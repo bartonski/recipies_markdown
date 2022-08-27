@@ -9,7 +9,7 @@
 * | 1 cup         | fat-free mozzarella cheese (fat-free)
 * | 11 ounces     | canned corn (drained)
 * | 4  ounces     | green chili peppers (drained, chopped)
-* | 1  teaspoon   | dried oregano
+* | 1  teaspoon   | oregano (dried)
 * | 1/8 teaspoon  | pepper
 * | 2 tablespoons | fat-free parmesan cheese (fat-free grated)
 

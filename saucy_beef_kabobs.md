@@ -14,7 +14,7 @@
 * | 1 tablespoon | Worcestershire sauce
 * | 1 dash       | hot sauce
 * | 2 pounds     | beef sirloin (cut into 1 inch cubes)
-* | ½ pound      | fresh mushrooms (stems removed)
+* | ½ pound      | mushrooms (fresh, stems removed)
 * | 1 pint       | cherry tomatoes
 * | 1 large      | onion (quartered)
 * | 1 large      | green bell pepper (cut into 1 inch pieces)

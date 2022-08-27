@@ -13,8 +13,8 @@
 * | 3 cups        | beef broth
 * | 2 tablespoons | tomato paste
 * | 1 tablespoon  | worcestershire sauce
-* | 1 teaspoon    | dried thyme
-* | 1 teaspoon    | dried rosemary
+* | 1 teaspoon    | thyme (dried)
+* | 1 teaspoon    | rosemary (dried)
 * | 1 teaspoon    | smoked paprika
 * | 1 teaspoon    | caraway seeds (optional)
 * | 2             | bay leaves

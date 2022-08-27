@@ -2,9 +2,6 @@
 
 ### Ingredients
 
-<!--
-* | measurement | ingredient (modification)
--->
 * | 2 lbs | pork (shoulder? loin? chops?)
 * | 1 lb  | kidney beans
 * | 8 c.  | water

@@ -2,7 +2,7 @@
 
 ### Ingredients
 
-* | 2 cups   | fresh basil leaves (packed)
+* | 2 cups   | basil leaves (fresh, packed)
 * | 1/2 cup  | parmigiano-reggiano (or romano cheese, freshly grated)
 * | 1/2 cup  | extra virgin olive oil
 * | 1/3 cup  | pine nuts (or walnuts)

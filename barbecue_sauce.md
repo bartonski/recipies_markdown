@@ -8,7 +8,7 @@
 * | 1/4 cup       | worcestershire sauce
 * | 1/4 cup       | soy sauce
 * | 1 cup         | brown sugar (packed)
-* | 2 tablespoons | dried mustard
+* | 2 tablespoons | mustard (dried)
 * | 4 tablespoons (or to taste) | chili powder
 * | 1 teaspoon    | ginger (ground)
 * | 2 cloves      | garlic (minced)

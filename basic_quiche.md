@@ -9,7 +9,7 @@
 * | 1 | green onion (chopped)
 * | 4 | eggs (whipped)
 * | 1/2 t. | cream of tartar
-* | 1 t. | dried mustard
+* | 1 t. | mustard (dried)
 * | 1 1/3 C. | whipping cream
 
 ( or other fillings: sausage; mushrooms; peppers; etc.)
