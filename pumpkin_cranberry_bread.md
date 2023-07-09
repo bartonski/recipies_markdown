@@ -2,7 +2,7 @@
 
 ### Ingredients
 
-* | 2 1/4 cups       | all-purpose flour
+* | 2 1/4 cups       | flour (all-purpose) 
 * | 1 tablespoon     | pumpkin pie spice
 * | 2 teaspoons      | baking powder
 * | 1/2 teaspoon     | salt

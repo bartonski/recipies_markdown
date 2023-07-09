@@ -10,7 +10,7 @@
 * | 1⁄3 cup    | bread crumbs (fresh)
 * | 3 Tbsp     | parmesan cheese (grated, divided)
 * | 2 1⁄2 cups | skim milk
-* | 1⁄3 cup    | all-purpose flour (all-purpose)
+* | 1⁄3 cup    | flour (all-purpose)
 * | 1⁄2 cup    | onion (diced)
 * | 1 cup      | weight watchers reduced fat mexican style shredded cheese
 * | 1 tsp      | dijon mustard

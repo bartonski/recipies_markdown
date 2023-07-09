@@ -8,8 +8,8 @@
 * | 1/4 cup               | sugar
 * | 1/4 cup               | molasses
 * | 1 tablespoon          | salt
-* | 7 to 7-1/2 cups       | all-purpose flour
-* | 3 cups                | whole wheat flour
+* | 7 to 7-1/2 cups       | flour (all-purpose) 
+* | 3 cups                | flour (whole wheat) 
 
 ---
 

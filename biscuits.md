@@ -21,7 +21,7 @@
 
 ### Ingredients
 
-* | 2 cups       | all-purpose flour
+* | 2 cups       | flour (all-purpose) 
 * | 1 tablespoon | baking powder
 * | 1/2 teaspoon | salt
 * | 1/2 cup      | unsalted butter

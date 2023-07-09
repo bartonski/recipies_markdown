@@ -6,7 +6,7 @@
 * | 1          | onion (chopped)
 * | 1 1/2 cups | cola
 * | 3/4 cup    | ketchup
-* | 3 Tbsp.    | BBQ sauce
+* | 3 Tbsp.    | barbecue sauce
 * | 3 Tbsp.    | brown sugar
 * | 2 Tbsp.    | pepper jelly
 * | 2 tsp.     | malt vinegar
